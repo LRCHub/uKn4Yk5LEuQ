@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ツキマシテハ",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-06T01:30:18.181409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ツキマシテハ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_ツキマシテハ_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ツキマシテハ - Tsukimashitewa",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_ツキマシテハ_-_Tsukimashitewa_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ツキマシテハ (~The White Lounge Version~ / Live) - Tsukimashitewa (~The White Lounge Version~ / Live)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_ツキマシテハ_(~The_White_Lounge_Version~___Live)_-_Tsukimashitewa_(~The_White_Lounge_V_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ツキマシテハ - ~The White Lounge Version~ / Live",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_ツキマシテハ_-_~The_White_Lounge_Version~___Live_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ツキマシテハ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_ツキマシテハ_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
